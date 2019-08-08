@@ -2,6 +2,9 @@
 Simulation and Strategy Testing in stock prices
 
 1. Simulate prices
+- GBM
+- Brownian Bridge
+- Correlation metric
 2. Stochastic Optimisation with respect to simulated prices using an appropriate reward function
 
 

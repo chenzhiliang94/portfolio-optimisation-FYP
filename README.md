@@ -2,7 +2,7 @@
 Simulation and Strategy Testing in stock prices
 
 1. Simulate prices
-- GBM
+- GBM (https://en.wikipedia.org/wiki/Geometric_Brownian_motion)tr
 - Brownian Bridge
 - Correlation metric
 2. Stochastic Optimisation with respect to simulated prices using an appropriate reward function
